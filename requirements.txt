@@ -2,3 +2,5 @@ pandas
 matplotlib
 ipywidgets
 voila
+fastbook
+jupyterlab_widgets
